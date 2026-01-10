@@ -82,7 +82,7 @@ body {
 }
 
 /*=================== Products page ========================*/
-#item-logo { /* or use "img#item-logo" if the id is assigned to only one item/image */
+img#item-logo { /* or use "img#item-logo" if the id is assigned to only one item/image */
     width: 300px;
     padding:25px 95px 10px 10px;
     margin:auto;
